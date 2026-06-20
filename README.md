@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<a href="https://abdulsemed.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0E7C86?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://abdulsemedm.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0E7C86?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://linkedin.com/in/abdulsemed-mussema-7a13ab23a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:abdumussema22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
@@ -20,7 +20,7 @@
 
 ### 🧭 About
 
-Software Engineer with **3+ years** of experience building production web and mobile applications across fintech, e-commerce, and logistics. Comfortable owning a feature end-to-end — from UI to API to deployment.
+Software Engineer with **4+ years** of experience building production web and mobile applications across fintech, e-commerce, and logistics. Comfortable owning a feature end-to-end — from UI to API to deployment.
 
 ```
 🏦  Currently building core banking & fintech products
