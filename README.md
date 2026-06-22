@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=0E7C86&center=true&vCenter=true&width=600&lines=Flutter+%7C+React+%7C+Next.js;Node.js+%7C+NestJS+%7C+Go;Building+production+apps+since+2022" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=0E7C86&center=true&vCenter=true&width=600&lines=Flutter+%7C+React+%7C+Next.js;Node.js+%7C+NestJS+%7C+Go;Building+production+apps" alt="Typing SVG" />
 
 <br/><br/>
 
