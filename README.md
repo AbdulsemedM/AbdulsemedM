@@ -1,28 +1,47 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0E7C86&text=Abdulsemed%20Mussema&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Web%20%26%20Mobile%20Applications&descAlignY=58&descSize=18&animation=fadeIn" />
+<!-- Banner SVG -->
+<svg width="100%" height="160" viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0A1628;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#0E4A52;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0A1628;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0E7C86;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#0E7C86;stop-opacity:0.2" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="160" fill="url(#bg)" rx="10"/>
+  <path d="M0,120 Q225,80 450,100 T900,80 L900,160 L0,160 Z" fill="url(#wave)" opacity="0.3"/>
+  <path d="M0,130 Q300,100 600,120 T900,100 L900,160 L0,160 Z" fill="#0E7C86" opacity="0.15"/>
+  <text x="450" y="72" font-family="monospace" font-size="34" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="3">ABDULSEMED MUSSEMA</text>
+  <text x="450" y="108" font-family="monospace" font-size="14" fill="#5ECBD4" text-anchor="middle" letter-spacing="2">Software Engineer · Web &amp; Mobile Applications</text>
+  <text x="450" y="132" font-family="monospace" font-size="11" fill="#3A9BA5" text-anchor="middle">Flutter · React · Next.js · Node.js · NestJS · Go</text>
+</svg>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=0E7C86&center=true&vCenter=true&width=600&lines=Flutter+%7C+React+%7C+Next.js;Node.js+%7C+NestJS+%7C+Go;Building+production+apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=0E7C86&center=true&vCenter=true&width=700&lines=Flutter+%7C+React+%7C+Next.js+%7C+Node.js;NestJS+%7C+Go+%7C+Python+%7C+Java;Building+production+apps+since+2022;Fintech+%7C+E-commerce+%7C+Logistics" alt="Typing SVG" />
 
 <br/><br/>
 
-<a href="https://abdulsemedm.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0E7C86?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/abdulsemedm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://abdulsemed.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0E7C86?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/abdulsemed-mussema-7a13ab23a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:abdumussema22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0E7C86" width="100%" />
+<div align="center"><img src="https://img.shields.io/badge/─────────────────────────────────────────────────────-0E7C86?style=flat" /></div>
 
 ### 🧭 About
 
-Software Engineer with **4+ years** of experience building production web and mobile applications across fintech, e-commerce, and logistics. Comfortable owning a feature end-to-end — from UI to API to deployment.
+Software Engineer with **3+ years** of experience building production web and mobile applications across fintech, e-commerce, and logistics. Comfortable owning a feature end-to-end — from UI to API to deployment.
 
-```
+```text
 🏦  Currently building core banking & fintech products
 🛒  Also shipping e-commerce & logistics apps
 📱  Primary stack → Flutter (BLoC) · React / Next.js · Node.js / Go
@@ -30,7 +49,7 @@ Software Engineer with **4+ years** of experience building production web and mo
 🤖  Ship faster with AI-assisted tooling (Cursor) — without sacrificing quality
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0E7C86" width="100%" />
+<div align="center"><img src="https://img.shields.io/badge/─────────────────────────────────────────────────────-0E7C86?style=flat" /></div>
 
 ### 🛠️ Tech Stack
 
@@ -98,7 +117,7 @@ Software Engineer with **4+ years** of experience building production web and mo
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0E7C86" width="100%" />
+<div align="center"><img src="https://img.shields.io/badge/─────────────────────────────────────────────────────-0E7C86?style=flat" /></div>
 
 ### 📊 GitHub Stats
 
@@ -109,24 +128,29 @@ Software Engineer with **4+ years** of experience building production web and mo
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulsemedM&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0E7C86" width="100%" />
-
-<div align="center">
-
-<a href="https://github.com/AbdulsemedM">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulsemedM&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</a>
+<img src="https://streak-stats.demolab.com?user=AbdulsemedM&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-[![Profile views](https://komarev.com/ghpvc/?username=AbdulsemedM&style=flat-square&color=0e7c86)](https://github.com/AbdulsemedM)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulsemedM&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0E7C86&section=footer" />
+[![Profile views](https://komarev.com/ghpvc/?username=AbdulsemedM&style=flat-square&color=0e7c86&label=Profile+Views)](https://github.com/AbdulsemedM)
+
+<br/>
+
+<!-- Footer SVG -->
+<svg width="100%" height="60" viewBox="0 0 900 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0A1628;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#0E4A52;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0A1628;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path d="M0,30 Q225,0 450,20 T900,0 L900,60 L0,60 Z" fill="url(#footer)"/>
+  <text x="450" y="48" font-family="monospace" font-size="11" fill="#3A9BA5" text-anchor="middle">Let's build something great together.</text>
+</svg>
 
 </div>
