@@ -23,7 +23,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=0E7C86&center=true&vCenter=true&width=700&lines=Flutter+%7C+React+%7C+Next.js+%7C+Node.js;NestJS+%7C+Go+%7C+Python+%7C+Java;Building+production+apps+since+2022;Fintech+%7C+E-commerce+%7C+Logistics" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=0E7C86&center=true&vCenter=true&width=700&lines=Flutter+%7C+React+%7C+Next.js+%7C+Node.js;NestJS+%7C+Go+%7C+Python+%7C+Java;4%2B+Years+of+Production+Engineering;Fintech+%7C+E-commerce+%7C+Logistics" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -39,7 +39,7 @@
 
 ### 🧭 About
 
-Software Engineer with **3+ years** of experience building production web and mobile applications across fintech, e-commerce, and logistics. Comfortable owning a feature end-to-end — from UI to API to deployment.
+Software Engineer with **4+ years** of experience building production web and mobile applications across fintech, e-commerce, and logistics. Comfortable owning a feature end-to-end — from UI to API to deployment.
 
 ```text
 🏦  Currently building core banking & fintech products
@@ -123,16 +123,16 @@ Software Engineer with **3+ years** of experience building production web and mo
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdulsemedM&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulsemedM&theme=tokyonight&hide_border=true&layout=compact" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdulsemedM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulsemedM&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=AbdulsemedM&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=AbdulsemedM&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulsemedM&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulsemedM&bg_color=1a1b27&color=628fda&line=0e7c86&point=5ecbd4&area=true&hide_border=true" width="95%" />
 
 <br/>
 
