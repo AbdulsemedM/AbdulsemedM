@@ -1,156 +1,340 @@
 <div align="center">
 
-<!-- Banner SVG -->
-<svg width="100%" height="160" viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0A1628;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#0E4A52;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0A1628;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0E7C86;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#0E7C86;stop-opacity:0.2" />
-    </linearGradient>
-  </defs>
-  <rect width="900" height="160" fill="url(#bg)" rx="10"/>
-  <path d="M0,120 Q225,80 450,100 T900,80 L900,160 L0,160 Z" fill="url(#wave)" opacity="0.3"/>
-  <path d="M0,130 Q300,100 600,120 T900,100 L900,160 L0,160 Z" fill="#0E7C86" opacity="0.15"/>
-  <text x="450" y="72" font-family="monospace" font-size="34" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="3">ABDULSEMED MUSSEMA</text>
-  <text x="450" y="108" font-family="monospace" font-size="14" fill="#5ECBD4" text-anchor="middle" letter-spacing="2">Software Engineer · Web &amp; Mobile Applications</text>
-  <text x="450" y="132" font-family="monospace" font-size="11" fill="#3A9BA5" text-anchor="middle">Flutter · React · Next.js · Node.js · NestJS · Go</text>
-</svg>
+<!-- HERO BANNER — stored in repo, no external dependency -->
+<img src="./assets/banner.svg" width="100%" alt="Abdulsemed Mussema — Software Engineer" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=0E7C86&center=true&vCenter=true&width=700&lines=Flutter+%7C+React+%7C+Next.js+%7C+Node.js;NestJS+%7C+Go+%7C+Python+%7C+Java;4%2B+Years+of+Production+Engineering;Fintech+%7C+E-commerce+%7C+Logistics" alt="Typing SVG" />
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=0E7C86&center=true&vCenter=true&width=700&lines=Software+Engineer;Flutter+Specialist;React+%26+Next.js;Node.js+%26+Go;4%2B+Years+in+Production;Banking+%26+Fintech;AI-Assisted+Development;Always+Learning" alt="Typing SVG" />
 
 <br/><br/>
 
-<a href="https://abdulsemed.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0E7C86?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/abdulsemed-mussema-7a13ab23a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:abdumussema22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<!-- SOCIAL BUTTONS -->
+<a href="https://abdulsemed.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-0E7C86?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/abdulsemed-mussema-7a13ab23a">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:abdumussema22@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://abdulsemed.vercel.app/resume.pdf">
+  <img src="https://img.shields.io/badge/Resume-1A2B4A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+</a>
+
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=AbdulsemedM&style=flat-square&color=0e7c86&label=Profile+Views" />
 
 </div>
 
-<br/>
+---
 
-<div align="center"><img src="https://img.shields.io/badge/─────────────────────────────────────────────────────-0E7C86?style=flat" /></div>
+## 💡 About Me
 
-### 🧭 About
-
-Software Engineer with **4+ years** of experience building production web and mobile applications across fintech, e-commerce, and logistics. Comfortable owning a feature end-to-end — from UI to API to deployment.
+> I enjoy building scalable software that solves real business problems.
 
 ```text
-🏦  Currently building core banking & fintech products
-🛒  Also shipping e-commerce & logistics apps
-📱  Primary stack → Flutter (BLoC) · React / Next.js · Node.js / Go
-⚙️  Full lifecycle → databases · REST APIs · cloud deployment (AWS, Docker)
-🤖  Ship faster with AI-assisted tooling (Cursor) — without sacrificing quality
+Experience  →  4+ years in production software engineering
+Mobile      →  Flutter specialist (BLoC, Riverpod, Clean Architecture)
+Backend     →  Go & Node.js for performance-critical services
+Domains     →  Banking · Fintech · E-commerce · Logistics
+Practices   →  Clean Architecture · REST APIs · Docker · AWS
+Workflow    →  AI-assisted development with Cursor
 ```
 
-<div align="center"><img src="https://img.shields.io/badge/─────────────────────────────────────────────────────-0E7C86?style=flat" /></div>
+---
 
-### 🛠️ Tech Stack
+## 🎯 Currently
 
-<table width="100%">
+| | Focus |
+|---|---|
+| 🏦 | Building banking & fintech platforms |
+| 📱 | Shipping Flutter mobile apps |
+| ⚙️ | Backend services with Go & NestJS |
+| 🤖 | Integrating AI into daily dev workflow |
+| 📚 | Exploring Kubernetes & cloud-native patterns |
+
+---
+
+## 🛠️ Tech Stack
+
+<table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top">
 
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+**📱 Mobile**
 
-**Mobile & Frontend**
-<br/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/react-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/redux-593d88?style=flat-square&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/BLoC-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Riverpod-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
 
-**Backend & APIs**
-<br/>
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white" />
+</td>
+<td valign="top">
+
+**🌐 Frontend**
+
+<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-593d88?style=flat-square&logo=redux&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**⚙️ Backend**
+
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens" />
 
 </td>
-<td valign="top" width="50%">
+<td valign="top">
 
-**Databases & Cloud**
-<br/>
-<img src="https://img.shields.io/badge/postgres-316192?style=flat-square&logo=postgresql&logoColor=white" />
+**🗄️ Database**
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/sqlite-07405e?style=flat-square&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**☁️ DevOps & Cloud**
+
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 
-**Data & ML**
-<br/>
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+</td>
+<td valign="top">
+
+**🧠 Data & AI**
+
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
-
-**Tools**
-<br/>
-<img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/github-121011?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/gitlab-181717?style=flat-square&logo=gitlab&logoColor=white" />
-<img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor_AI-0E7C86?style=flat-square&logo=openai&logoColor=white" />
 
 </td>
 </tr>
 </table>
 
-<div align="center"><img src="https://img.shields.io/badge/─────────────────────────────────────────────────────-0E7C86?style=flat" /></div>
+---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏦 Merchant Nation Command
+**Field Operations & Branch Management Platform**
+
+> Full-stack solo build — from architecture to cloud deployment
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+🔗 [Live →](https://merchant-nation-2omx.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 Michu-Mizan
+**Sharia-Compliant MSME Financing App**
+
+> Interest-free Islamic financing for micro & small enterprises
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
+
+📱 Android & iOS
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 CommercePal
+**B2B & B2C E-commerce Platform**
+
+> 50K+ downloads on Google Play
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
+![REST](https://img.shields.io/badge/REST_API-0E7C86?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+🔗 [Play Store →](https://play.google.com/store/apps/details?id=com.commercepal.commercepal)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ AbayMart
+**Customer Shopping App**
+
+> Telebirr payments · order tracking · in-app chat · map-based delivery
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+
+🔗 [Website →](https://abbaymart.com) · [Play Store →](https://play.google.com/store/apps/details?id=com.abaymart.user)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚚 HudHud Express
+**Smart Logistics & Courier Management**
+
+> Real-time tracking · barcode scanning · invoice management
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+🔗 [Play Store →](https://play.google.com/store/apps/details?id=com.hudhud.courier)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 VSLA Mobile App
+**Village Saving & Loan Associations**
+
+> Member ledger · meetings · secure e-loan applications
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-02569B?style=flat-square&logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+📱 Android & iOS
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdulsemedM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdulsemedM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulsemedM&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=AbdulsemedM&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=AbdulsemedM&theme=tokyonight&hide_border=true" />
 
-<br/><br/>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulsemedM&bg_color=1a1b27&color=628fda&line=0e7c86&point=5ecbd4&area=true&hide_border=true" width="95%" />
+---
 
-<br/>
+## 🐍 Contribution Activity
 
-[![Profile views](https://komarev.com/ghpvc/?username=AbdulsemedM&style=flat-square&color=0e7c86&label=Profile+Views)](https://github.com/AbdulsemedM)
+<div align="center">
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulsemedM/AbdulsemedM/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdulsemedM/AbdulsemedM/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AbdulsemedM/AbdulsemedM/output/github-snake.svg" />
+</picture>
 
-<!-- Footer SVG -->
-<svg width="100%" height="60" viewBox="0 0 900 60" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="footer" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0A1628;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#0E4A52;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0A1628;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <path d="M0,30 Q225,0 450,20 T900,0 L900,60 L0,60 Z" fill="url(#footer)"/>
-  <text x="450" y="48" font-family="monospace" font-size="11" fill="#3A9BA5" text-anchor="middle">Let's build something great together.</text>
-</svg>
+</div>
+
+---
+
+## 🏅 Achievements
+
+<div align="center">
+
+| | Achievement |
+|:---:|---|
+| 🏆 | Winner — Computer Stream final-year project competition |
+| 🥈 | 2nd Place — Jimma Institute of Technology project showcase |
+| 🚀 | Winning Team — Hack into Bright Ethiopia Hackathon |
+| 📱 | 50K+ app downloads on Google Play Store |
+| 🏦 | 4+ years delivering production banking & fintech software |
+| 🤖 | AI-assisted engineering workflow with Cursor |
+
+</div>
+
+---
+
+## ✍️ Development Philosophy
+
+```javascript
+while (true) {
+  observe();      //  understand the problem deeply
+  design();       //  architect before you code
+  build();        //  write clean, testable code
+  ship();         //  deploy with confidence
+  improve();      //  measure, iterate, repeat
+}
+```
+
+---
+
+## ☕ Fun Facts
+
+```text
+☕  Coffee-powered developer
+📱  Flutter enthusiast who has shipped on Android & iOS
+⚙️  Loves designing backend architecture
+🤖  Uses Cursor AI every single day
+🏦  Has built real banking products used by thousands
+🎯  Enjoys complex problems — the harder the better
+```
+
+---
+
+## 📬 Get In Touch
+
+<div align="center">
+
+| | |
+|:---:|:---|
+| 🌐 | [abdulsemed.vercel.app](https://abdulsemed.vercel.app) |
+| 💼 | [linkedin.com/in/abdulsemed-mussema-7a13ab23a](https://linkedin.com/in/abdulsemed-mussema-7a13ab23a) |
+| 📧 | [abdumussema22@gmail.com](mailto:abdumussema22@gmail.com) |
+| 📍 | Addis Ababa, Ethiopia |
+| 💬 | Open to interesting engineering challenges |
+
+</div>
+
+---
+
+<div align="center">
+
+```
+────────────────────────────────────────────────────
+
+   Great software isn't just written. It's engineered.
+
+────────────────────────────────────────────────────
+```
 
 </div>
