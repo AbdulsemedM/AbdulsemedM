@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.svg" width="100%" alt="Abdulsemed Mussema — Senior Software Engineer. I build products people actually use." />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=1000&color=F97316&center=true&vCenter=true&width=760&height=40&lines=Senior+Software+Engineer;Flutter+%26+Mobile+at+Scale;React+%26+Next.js+%C2%B7+Node.js+%26+Go;Banking%2C+Fintech+%26+Logistics;Open+to+co-founding+%26+select+projects" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=1000&color=F97316&center=true&vCenter=true&width=760&height=40&lines=Senior+Software+Engineer;Flutter+%26+Mobile+at+Scale;React+%26+Next.js+%C2%B7+Node.js+%26+Go;Banking%2C+Fintech+%26+Logistics" alt="Typing animation" />
 
 <br/>
 
@@ -17,11 +17,11 @@
 
 <h2 align="center">01 &nbsp;/&nbsp; About</h2>
 
-<p align="center"><i>Engineer by trade, founder by intent.</i></p>
+<p align="center"><i>Engineer who owns the product, end to end.</i></p>
 
 <p align="center">
 Four years turning ideas into production software across fintech, commerce and logistics —<br/>
-mobile and web, architecture to launch, with the ownership of someone who intends to build companies, not just features.
+mobile and web, architecture to launch, with full ownership of what ships.
 </p>
 
 <table align="center">
@@ -263,7 +263,7 @@ Structured savings, loan access and financial literacy for rural communities: me
 
 <h2 align="center">07 &nbsp;/&nbsp; Have an idea worth building?</h2>
 
-<p align="center"><i>I'm exploring co-founding opportunities and a few select engagements. Investors, founders and teams with a hard problem — I'd love to hear from you.</i></p>
+<p align="center"><i>I'm open to a few select engagements. Teams with a hard problem — I'd love to hear from you.</i></p>
 
 <div align="center">
 
