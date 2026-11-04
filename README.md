@@ -66,46 +66,76 @@ Interfaces that feel considered, code the next engineer is glad to inherit.
 
 **01 · Mobile**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Flutter, Dart" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase&theme=dark&perline=4" alt="01 · Mobile" /><br/>
+<sub><code>BLoC</code> <code>Riverpod</code> <code>Android</code> <code>iOS</code></sub>
 
 </td>
 <td valign="top" width="33%" align="center">
 
 **02 · Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="React, Next.js, TailwindCSS" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux&theme=dark&perline=4" alt="02 · Frontend" /><br/>
+<sub><code>Responsive UI</code> <code>SSR</code></sub>
 
 </td>
 <td valign="top" width="33%" align="center">
 
 **03 · Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,go,py,java&theme=dark" alt="Node.js, Go, Python, Java" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,go,java,spring,py,django&theme=dark&perline=4" alt="03 · Backend" /><br/>
+<sub><code>REST APIs</code> <code>JWT</code> <code>Socket.io</code> <code>Webhooks</code></sub>
 
 </td>
 </tr>
 <tr>
-<td valign="top" align="center">
+<td valign="top" width="33%" align="center">
 
 **04 · Database**
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,sqlite&theme=dark" alt="PostgreSQL, MongoDB, Firebase, SQLite" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase,supabase&theme=dark&perline=4" alt="04 · Database" /><br/>
+<sub><code>Multi-tenant schemas</code></sub>
 
 </td>
-<td valign="top" align="center">
+<td valign="top" width="33%" align="center">
 
 **05 · Cloud &amp; DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions&theme=dark" alt="AWS, Docker, GitHub Actions" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,linux,vercel&theme=dark&perline=4" alt="05 · Cloud &amp; DevOps" /><br/>
+<sub><code>CI/CD</code> <code>Kubernetes (exploring)</code></sub>
 
 </td>
-<td valign="top" align="center">
+<td valign="top" width="33%" align="center">
 
-**06 · Payments &amp; Tools**
+**06 · Data &amp; AI**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,py&theme=dark&perline=4" alt="06 · Data &amp; AI" /><br/>
+<sub><code>scikit-learn</code> <code>Pandas</code> <code>NumPy</code> <code>Cursor AI</code></sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%" align="center">
+
+**07 · Payments**
+
 
 <code>Stripe</code> <code>PayPal</code> <code>Chapa</code> <code>Telebirr</code>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=figma,git&theme=dark" alt="Figma, Git" /> <code>Cursor</code>
+
+</td>
+<td valign="top" width="33%" align="center">
+
+**08 · Tools**
+
+<img src="https://skillicons.dev/icons?i=figma,git,github&theme=dark&perline=4" alt="08 · Tools" /><br/>
+<sub><code>Cursor</code> <code>Android Studio</code></sub>
+
+</td>
+<td valign="top" width="33%" align="center">
+
+**09 · Practices**
+
+
+<code>Clean Architecture</code> <code>Real-time systems</code> <code>Maps &amp; tracking</code> <code>Barcode workflows</code> <code>Role-based access</code>
 
 </td>
 </tr>
@@ -229,12 +259,7 @@ Structured savings, loan access and financial literacy for rural communities: me
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AbdulsemedM&show_icons=true&count_private=true&bg_color=0B0A09&border_color=292524&title_color=F97316&icon_color=FDBA74&text_color=E7E5E4&border_radius=14&cache_seconds=1800" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulsemedM&layout=compact&langs_count=8&bg_color=0B0A09&border_color=292524&title_color=F97316&text_color=E7E5E4&border_radius=14&cache_seconds=1800" alt="Top languages" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com/?user=AbdulsemedM&background=0B0A09&border=292524&ring=F97316&fire=F97316&currStreakNum=F5F5F4&sideNums=F5F5F4&currStreakLabel=F97316&sideLabels=A8A29E&dates=78716C&border_radius=14" alt="GitHub streak" />
+<img width="80%" src="https://streak-stats.demolab.com/?user=AbdulsemedM&background=0B0A09&border=292524&ring=F97316&fire=F97316&currStreakNum=F5F5F4&sideNums=F5F5F4&currStreakLabel=F97316&sideLabels=A8A29E&dates=78716C&border_radius=14" alt="GitHub streak" />
 
 <br/><br/>
 
