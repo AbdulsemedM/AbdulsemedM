@@ -290,20 +290,7 @@ Structured savings, loan access and financial literacy for rural communities: me
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-<p align="center"><img src="./assets/h-recognition.svg" width="100%" alt="07 / Recognition" /></p>
-
-<table align="center">
-<tr>
-<td align="center" width="25%"><b>Winner</b><br/><sub>Computer Stream final-year project competition</sub></td>
-<td align="center" width="25%"><b>2nd Place</b><br/><sub>Jimma Institute of Technology project showcase</sub></td>
-<td align="center" width="25%"><b>Winning Team</b><br/><sub>Hack into Bright Ethiopia Hackathon</sub></td>
-<td align="center" width="25%"><b>50K+ Downloads</b><br/><sub>Google Play Store</sub></td>
-</tr>
-</table>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<p align="center"><img src="./assets/h-contact.svg" width="100%" alt="08 / Let’s Build Something" /></p>
+<p align="center"><img src="./assets/h-contact.svg" width="100%" alt="07 / Let’s Build Something" /></p>
 
 <p align="center"><i>I'm open to a few select engagements. Teams with a hard problem — I'd love to hear from you.</i></p>
 
