@@ -1,21 +1,26 @@
+<!--
+  hey, you're reading the source 👋
+  if you like how this is built (hand-written animated SVGs, no JS), say hi: abdumussema22@gmail.com
+-->
+
 <div align="center">
 
 <img src="./assets/banner.svg" width="100%" alt="Abdulsemed Mussema — Senior Software Engineer. I build products people actually use." />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=1000&color=F97316&center=true&vCenter=true&width=760&height=40&lines=Senior+Software+Engineer;Flutter+%26+Mobile+at+Scale;React+%26+Next.js+%C2%B7+Node.js+%26+Go;Banking%2C+Fintech+%26+Logistics" alt="Typing animation" />
-
-<br/>
 
 <a href="https://abdulsemedm.vercel.app"><img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/abdulsemedm"><img src="https://img.shields.io/badge/LinkedIn-1C1917?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:abdumussema22@gmail.com"><img src="https://img.shields.io/badge/Email-1C1917?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://abdulsemedm.vercel.app/resume.pdf"><img src="https://img.shields.io/badge/Résumé-F97316?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Résumé" /></a>
 
+<br/><br/>
+
+<img src="./assets/metrics.svg" width="100%" alt="4+ years shipping · 15 products shipped · 50K+ app downloads · 3K+ contributions" />
+
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-<h2 align="center">01 &nbsp;/&nbsp; About</h2>
+<p align="center"><img src="./assets/h-about.svg" width="100%" alt="01 / About" /></p>
 
 <p align="center"><i>Engineer who owns the product, end to end.</i></p>
 
@@ -54,11 +59,15 @@ Interfaces that feel considered, code the next engineer is glad to inherit.
 <sub><code>Addis Ababa, Ethiopia</code> &nbsp;·&nbsp; <code>English · Amharic · Oromiffaa</code> &nbsp;·&nbsp; <code>Cursor-assisted workflow</code> &nbsp;·&nbsp; <code>Exploring Kubernetes &amp; cloud-native</code></sub>
 </div>
 
+<p align="center"><img src="./assets/terminal.svg" width="100%" alt="Animated terminal: whoami, tech stack and recent shipped work" /></p>
+
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-<h2 align="center">02 &nbsp;/&nbsp; Capabilities</h2>
+<p align="center"><img src="./assets/h-capabilities.svg" width="100%" alt="02 / Capabilities" /></p>
 
 <p align="center"><i>A full-stack toolkit, chosen with care — including local payment rails like Telebirr and Chapa.</i></p>
+
+<p align="center"><img src="./assets/marquee.svg" width="100%" alt="Scrolling list of technologies" /></p>
 
 <table align="center">
 <tr>
@@ -143,7 +152,7 @@ Interfaces that feel considered, code the next engineer is glad to inherit.
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-<h2 align="center">03 &nbsp;/&nbsp; Selected Work</h2>
+<p align="center"><img src="./assets/h-work.svg" width="100%" alt="03 / Selected Work" /></p>
 
 <p align="center"><i>Products in production, not on a whiteboard. 15 shipped across banking, commerce and logistics.</i></p>
 
@@ -236,7 +245,15 @@ Structured savings, loan access and financial literacy for rural communities: me
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-<h2 align="center">04 &nbsp;/&nbsp; Experience</h2>
+<p align="center"><img src="./assets/h-process.svg" width="100%" alt="04 / How I Ship" /></p>
+
+<p align="center"><i>Observe, design, build, ship, improve — then go around again.</i></p>
+
+<p align="center"><img src="./assets/pipeline.svg" width="100%" alt="Animated delivery loop: observe, design, build, ship, improve" /></p>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<p align="center"><img src="./assets/h-experience.svg" width="100%" alt="05 / Experience" /></p>
 
 <table align="center">
 <tr>
@@ -255,7 +272,7 @@ Structured savings, loan access and financial literacy for rural communities: me
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-<h2 align="center">05 &nbsp;/&nbsp; GitHub</h2>
+<p align="center"><img src="./assets/h-github.svg" width="100%" alt="06 / GitHub" /></p>
 
 <div align="center">
 
@@ -273,7 +290,7 @@ Structured savings, loan access and financial literacy for rural communities: me
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-<h2 align="center">06 &nbsp;/&nbsp; Recognition</h2>
+<p align="center"><img src="./assets/h-recognition.svg" width="100%" alt="07 / Recognition" /></p>
 
 <table align="center">
 <tr>
@@ -286,7 +303,7 @@ Structured savings, loan access and financial literacy for rural communities: me
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-<h2 align="center">07 &nbsp;/&nbsp; Have an idea worth building?</h2>
+<p align="center"><img src="./assets/h-contact.svg" width="100%" alt="08 / Let’s Build Something" /></p>
 
 <p align="center"><i>I'm open to a few select engagements. Teams with a hard problem — I'd love to hear from you.</i></p>
 
